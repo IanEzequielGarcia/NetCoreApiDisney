@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = APIDisney
+build_property.ProjectDir = C:\Users\Ianch\OneDrive\Escritorio\ESCUELA\Programacion o escuela\PRIMERCUATRIMESTRE2021\PracticaC#\APIDisney\NetCoreApiDisney\
